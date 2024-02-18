@@ -1,0 +1,50 @@
+.client-container {
+    margin-top: 200px;
+    background-color: white;
+
+
+}
+
+
+.heading {
+    margin-left: -150px;
+}
+
+@media screen and (max-width: 768px) {
+    .heading {
+        margin-left: 10px;
+    }
+
+    .heading img {
+        height: 20px;
+    }
+}
+
+
+.client-images {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.client-images {
+
+    margin-top: 28px;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.client-images1 img {
+
+    margin-right: 15px;
+
+}
+
+.client-images2 img {
+
+    margin-right: 15px;
+
+}
+
